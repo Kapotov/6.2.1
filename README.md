@@ -357,4 +357,4 @@ Foreign-key constraints:
     "clients_заказ_fkey" FOREIGN KEY ("заказ") REFERENCES orders(id)
  
 ```
-Приведите список операций, который вы применяли для бэкапа данных и восстановления. 
+
